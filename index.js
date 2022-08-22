@@ -16,8 +16,9 @@ The function should:
 */
 
 
-function createMenuItem(/*Your code here*/){
-  /*Your code here*/
+function createMenuItem(name, price, category){
+  const tacos = {name: "tacos", price: 8, category: "Lunch"};
+  return createMenuItem;
 }
 
 
